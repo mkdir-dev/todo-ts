@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -39,5 +39,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkdir-dev/todo-ts.git"
+  },
+  "author": "Mikhail Koryukov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkdir-dev/todo-ts/issues"
+  },
+  "homepage": "https://github.com/mkdir-dev/todo-ts#readme"
 }
