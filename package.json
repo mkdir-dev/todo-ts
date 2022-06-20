@@ -49,12 +49,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkdir-dev"
+    "url": "git+https://github.com/mkdir-dev/todo-ts"
   },
   "author": "Mikhail Koryukov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mkdir-dev"
+    "url": "https://github.com/mkdir-dev/todo-ts"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
